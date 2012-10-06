@@ -104,12 +104,14 @@
 
     <distributionManagement>
         <repository>
-            <id>releases-repository</id>
-            <url>https://github.com/justahero/maven-repository/raw/master/releases</url>
+            <id>releases</id>
+            <name>URI releases</name>
+            <url>https://github.com/justahero/maven-repository/tree/master/releases</url>
         </repository>
         <snapshotRepository>
-            <id>snapshots-repository</id>
-            <url>https://github.com/justahero/maven-repository/raw/master/snapshots</url>
+            <id>snapshots</id>
+            <name>URI snapshots</name>
+            <url>https://github.com/justahero/maven-repository/tree/master/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
