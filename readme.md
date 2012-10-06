@@ -1,8 +1,8 @@
 Maven-repository
 ================
 
-This is public maven repository for the [uri](https://github.com/justahero/uri) project.
-Modify the `pom.xml` of your project in order to use the library of this repository.
+This is the public maven repository for the [uri](https://github.com/justahero/uri) project.
+Modify the `pom.xml` of your project in order to use the library as a dependency.
 
 First the location of the repository must be given.
 
